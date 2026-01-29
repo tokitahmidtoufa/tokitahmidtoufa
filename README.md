@@ -33,7 +33,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <!--START_SECTION:waka-->
 
