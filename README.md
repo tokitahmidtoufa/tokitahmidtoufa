@@ -4,7 +4,9 @@
 
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+
+---
 
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
