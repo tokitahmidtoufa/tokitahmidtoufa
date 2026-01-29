@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">Coder and tech lover from Bangladesh 🇧🇩</p>
+<p align="center">Tech lover from Bangladesh 🇧🇩</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 ###
 
@@ -48,6 +48,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
