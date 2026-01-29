@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Tech Enthusiast | AI Learner</h3>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,7 @@
 - 💡 Love building things with **Python**
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
----
+
 
 ## 🔥 Streak
 
@@ -45,7 +45,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
  
- ---
+
 
 ## 📊 GitHub Stats
 
@@ -55,7 +55,7 @@ No activity tracked
 
 <br clear="both"/>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -74,7 +74,7 @@ No activity tracked
   </a>
 </div>
 
----
+
 
 ## 🐍 Contribution
 
