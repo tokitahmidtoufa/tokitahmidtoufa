@@ -1,89 +1,84 @@
-<h1 align="center">Hi! 👋, I'm Toufa</h1>
+<h1 align="center">
+  Hi 👋, I'm Toufa  
+</h1>
 
-###
+<h3 align="center">
+  🚀 Tech Enthusiast | AI Learner | Future ML Engineer  
+</h3>
 
-<p align="center">Tech lover from Bangladesh 🇧🇩</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Learner;AI+Explorer;Python+Developer;From+Bangladesh+🇧🇩&center=true&width=500&height=45">
+</p>
 
-###
+---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## 👨‍💻 About Me  
 
-###
+- 🌱 Currently learning **Machine Learning & AI**
+- 🤖 Interested in **Artificial Intelligence & Data Science**
+- 💡 Love building things with **Python**
+- 📫 Reach me at: **toufa6.2832@gmail.com**
 
-<p align="left">🌱 I'm currently learning <strong>Machine Learning</strong><br>🤝 I'm looking for help with <strong>Artificial Intelligence</strong><br>📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">toufa6.2832@gmail.com</a></p>
+---
 
-###
+## 🛠️ Tech Stack  
 
-<h2 align="left">Skills</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,c,cpp,html,css,git,github&theme=dark" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+## 📊 GitHub Stats  
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tokitahmidtoufa&show_icons=true&theme=dracula&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokitahmidtoufa&layout=compact&theme=dracula" height="160"/>
+</p>
 
-###
+---
 
-<!--START_SECTION:waka-->
+## 🔥 GitHub Streak  
 
-```txt
-From: 22 January 2026 - To: 29 January 2026
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokitahmidtoufa&theme=dracula"/>
+</p>
 
-No activity tracked
-```
+---
 
-<!--END_SECTION:waka-->
+## 🧠 Currently Learning  
 
-###
+- ✅ Python Advanced
+- 🔄 Machine Learning Algorithms
+- 🔜 Deep Learning & Neural Networks
 
-<h2 align="left">📊 GitHub Stats</h2>
+---
 
-###
+## 🌐 Connect With Me  
 
-<div align="center">
-  <img src="https://github-readme-stats-beta-mocha.vercel.app/api?username=tokitahmidtoufa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-beta-mocha.vercel.app/api/top-langs?username=tokitahmidtoufa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
-
-<h2 align="left">☕️ Connect With Me!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+<p align="center">
+  <a href="https://www.facebook.com/tokitahmidtoufa">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
-  <a href="https://www.instagram.com/tokitahmid_toufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/tokitahmid_toufa">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@tokitahmidtoufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@tokitahmidtoufa">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
   </a>
-  <a href="https://x.com/tokitahmidtoufa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/tokitahmidtoufa">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake  
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+⭐ **If you like my profile, consider following me!**
