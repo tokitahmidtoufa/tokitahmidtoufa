@@ -5,7 +5,7 @@
 
 
 ## 👨‍💻 About Me
-
+<hr style="height:4px;border:none;background-color:#30363d;">
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
 - 💡 Love building things with **Python**
