@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning <strong>Machine Learning</strong><br>🤝 I'm looking for help with <strong>Artificial Intelligence</strong><br>📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tokitahmidtoufa@gmail.com" target="_blank">toufa6.2832@gmail.com</a></p>
+<p align="left">🌱 I'm currently learning <strong>Machine Learning</strong><br>🤝 I'm looking for help with <strong>Artificial Intelligence</strong><br>📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">toufa6.2832@gmail.com</a></p>
 
 ###
 
