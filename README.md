@@ -1,8 +1,8 @@
-<h1 align="left">Hi! 👋, I'm Toufa?</h1>
+<h1 align="center">Hi! 👋, I'm Toufa</h1>
 
 ###
 
-<p align="left">Toki Tahmid Toufa here 👋<br>Coder and tech lover from Bangladesh 🇧🇩</p>
+<p align="center">Coder and tech lover from Bangladesh 🇧🇩</p>
 
 ###
 
