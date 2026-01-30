@@ -86,7 +86,11 @@
 
 ## 🧭 Contribution Map
 
+<div align="center">
+
 ![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## ❤️ Support My Work
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
