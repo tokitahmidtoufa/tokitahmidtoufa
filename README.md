@@ -2,16 +2,12 @@
 
 <h3 align="center">🚀 Tech Enthusiast | AI Learner</h3>
 
-
-
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
 - 💡 Love building things with **Python**
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>
-
-
 
 ## 🛠️ Tech Stack
 
@@ -31,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-
-
 ## 🔥 Streak
 
 <!--START_SECTION:waka-->
@@ -44,8 +38,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
- 
-
 
 ## 📊 GitHub Stats
 
@@ -54,8 +46,6 @@ No activity tracked
 <img align="right" src="https://github-readme-stats-beta-mocha.vercel.app/api/top-langs?username=tokitahmidtoufa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
 
 <br clear="both"/>
-
-
 
 ## 🌐 Connect With Me
 
@@ -74,10 +64,9 @@ No activity tracked
   </a>
 </div>
 
-
-
 ## 🐍 Contribution
 
 <img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
 
-###
+## Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Ko--fi-Donate-red)](https://ko-fi.com/K3K81T80EL)
