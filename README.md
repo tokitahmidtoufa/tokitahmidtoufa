@@ -93,7 +93,7 @@ No activity tracked
 
 ## ☕️ Support Me
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
-<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="45" alt="Buy Me a Coffee" />
+<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="40" alt="Buy Me a Coffee" />
 </a>
 
 ---
