@@ -46,16 +46,19 @@ No activity tracked
 <p align="center">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=true"
+    height="165"
     width="420"
   />
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
+    height="165"
     width="420"
   />
 </p>
 <p align="center">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&hide_border=true"
+    height="165"
     width="420"
   />
 </p>
