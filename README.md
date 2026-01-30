@@ -43,9 +43,9 @@ No activity tracked
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats-beta-mocha.vercel.app/api?username=tokitahmidtoufa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="50%" alt="stats graph"  />
+<img align="left" src="https://github-readme-stats-beta-mocha.vercel.app/api?username=tokitahmidtoufa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="100%" alt="stats graph"  />
 
-<img align="right" src="https://github-readme-stats-beta-mocha.vercel.app/api/top-langs?username=tokitahmidtoufa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="50%" alt="languages graph"  />
+<img align="right" src="https://github-readme-stats-beta-mocha.vercel.app/api/top-langs?username=tokitahmidtoufa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="100%" alt="languages graph"  />
 
 <br clear="both"/>
 
