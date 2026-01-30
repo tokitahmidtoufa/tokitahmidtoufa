@@ -92,9 +92,8 @@ No activity tracked
 <img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
 
 ## ☕️ Support Me
-<a href="https://ko-fi.com/K3K81T80EL" target="_blank">
-<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" height="36" alt="Buy Me a Coffee" />
-</a>
+[![Support me on Ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png)](https://ko-fi.com/K3K81T80EL)
+
 
 ---
 
