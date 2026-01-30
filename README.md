@@ -5,6 +5,8 @@
 
 <div align="center">
 ## 📌 Quick Bio
+</div>
+
 <img 
   src="assets/about-me.gif" 
   align="right"
@@ -14,7 +16,7 @@
 - *🤖 Curious about **AI & Data Science***
 - *💡 Turning my ideas into real **Python** projects*
 - *📫 Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>*
-</div>
+
 
 <div align="center">
 ## 🧪 Skills Lab
