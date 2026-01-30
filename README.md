@@ -45,7 +45,7 @@ No activity tracked
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=true"
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false"
     height="165"
     width="420"
   />
@@ -57,7 +57,7 @@ No activity tracked
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&hide_border=true"
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&hide_border=false"
     height="165"
     width="420"
   />
