@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toufa <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/></h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1000&color=F0F6FC&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1000&color=F0F6FC&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></p>
 
 ## 👨‍💻 About Me
 
