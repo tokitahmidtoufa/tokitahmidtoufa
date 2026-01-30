@@ -6,9 +6,9 @@
 ## 👨‍💻 About Me
 <img 
   src="assets/about-me.gif" 
-  align="right" 
-  height="250"
-  width="260"
+  align="right"
+  height="150px"
+  width="260px"
 />
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
