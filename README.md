@@ -68,7 +68,7 @@ No activity tracked
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td valign="top">
+  <td valign="top">
       <img
         src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry&hide_border=false"
         height="340"
