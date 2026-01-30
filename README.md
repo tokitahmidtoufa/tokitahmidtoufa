@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toufa <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&width=355&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
 </h1>
+
+<br><br>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&width=355&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
 
 ---
 
@@ -78,5 +81,3 @@ No activity tracked
 ---
 
 ⭐ Always learning. Always building.
-
----
