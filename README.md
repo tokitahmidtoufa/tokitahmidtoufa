@@ -1,6 +1,6 @@
-# Hi 👋, I'm Toufa <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> <align="center">
+<h1 align="center">Hi 👋, I'm Toufa <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"</h1>
 
-## 🚀 Tech Enthusiast | AI Learner <align="center">
+<h3 align="center">🚀 Tech Enthusiast | AI Learner</h3>
 
 ## 👨‍💻 About Me
 
