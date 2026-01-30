@@ -7,6 +7,7 @@
 <img 
   src="assets/about-me.gif" 
   align="right" 
+  height="150"
   width="260"
 />
 - 🌱 Currently learning **Machine Learning**
