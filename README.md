@@ -8,7 +8,7 @@
   src="assets/about-me.gif" 
   align="right"
   height="150px"
-  width="260px"
+  width="240px"
 />
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
