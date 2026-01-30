@@ -43,23 +43,39 @@ No activity tracked
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"
-    height="180"
-  />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry"
-    height="180"
-  />
-</p>
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top">
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false"
+              height="170"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
+              height="170"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
 
-<p align="right">
-  <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry"
-    height="160"
-  />
-</p>
+    <!-- RIGHT COLUMN -->
+    <td valign="top">
+      <img
+        src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry&hide_border=false"
+        height="340"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Connect With Me
