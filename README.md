@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toufa</h1>
 
-<h3 align="center">🚀 Tech Enthusiast | AI Learner</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=600&size=18&duration=4000&pause=1000&color=F0F6FC&width=435&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a>
 
 ## 👨‍💻 About Me
 
