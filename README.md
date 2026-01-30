@@ -3,7 +3,7 @@
 <br><br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&width=355&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
 
-## 👨‍💻 About Me
+## 📌 Quick Bio
 <img 
   src="assets/about-me.gif" 
   align="right"
@@ -14,7 +14,7 @@
 - 💡 Love building things with **Python**
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>
 
-## 🛠️ Tech Stack
+## 🧪 Skills Lab
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## 🔥 Streak
+## ⏳ Consistency Zone
 
 <!--START_SECTION:waka-->
 
@@ -45,7 +45,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 📊 GitHub Stats
+## 📈 Activity Report
 
 <p align="center">
   <img
@@ -68,7 +68,7 @@ No activity tracked
 </p>
 
 
-## 🌐 Connect With Me
+## 🤝 Let’s Connect
 
 <div align="left">
   <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
@@ -91,15 +91,15 @@ No activity tracked
   </a>
 </div>
 
-## 🐍 Contribution
+## 🧭 Contribution Map
 
 <img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
 
-## ☕️ Support Me
+## ❤️ Support My Work
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
 <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="40" alt="Buy Me a Coffee" />
 </a>
 
 ---
 
-⭐ Always learning. Always building.
+> 💬 **Progress Over Perfection**
