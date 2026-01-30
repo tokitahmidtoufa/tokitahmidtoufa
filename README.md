@@ -9,7 +9,7 @@
 - 💡 Love building things with **Python**
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>
 
-> # 🛠️ Tech Stack
+> ## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
