@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-> ## 🔥 Streak
+## 🔥 Streak
 
 <!--START_SECTION:waka-->
 
@@ -39,7 +39,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-> ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <img align="left" src="https://github-readme-stats-beta-mocha.vercel.app/api?username=tokitahmidtoufa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
 
@@ -47,7 +47,7 @@ No activity tracked
 
 <br clear="both"/>
 
-> ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
@@ -64,11 +64,11 @@ No activity tracked
   </a>
 </div>
 
-> ## 🐍 Contribution
+## 🐍 Contribution
 
 <img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
 
-> ## ☕️ Support Me
+## ☕️ Support Me
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
 <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" height="36" alt="Buy Me a Coffee" />
 </a>
