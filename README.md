@@ -93,7 +93,7 @@ No activity tracked
 
 ## 🧭 Contribution Map
 
-<img src="https://raw.githubusercontent.com/tokitahmidtoufa/tokitahmidtoufa/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
 
 ## ❤️ Support My Work
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
