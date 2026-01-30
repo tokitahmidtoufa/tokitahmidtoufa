@@ -2,14 +2,14 @@
 
 <h3 align="center">🚀 Tech Enthusiast | AI Learner</h3>
 
-> ## 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning**
 - 🤖 Interested in **Artificial Intelligence & Data Science**
 - 💡 Love building things with **Python**
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>
 
-> ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
