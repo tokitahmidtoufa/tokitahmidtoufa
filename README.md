@@ -43,7 +43,7 @@ No activity tracked
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"
     height="180"
@@ -54,7 +54,7 @@ No activity tracked
   />
 </p>
 
-<p align="center">
+<p align="right">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry"
     height="160"
