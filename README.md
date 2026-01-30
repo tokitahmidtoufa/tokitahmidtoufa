@@ -43,31 +43,18 @@ No activity tracked
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <!-- LEFT STACK -->
+  <img src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry"
+       width="480" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry"
+       width="480" />
 
-<!-- LEFT STACK -->
-<img
-  src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false"
-  width="500"
-/>
-
-<br/>
-
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
-  width="500"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img
-  src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry&hide_border=false"
-  width="500"
-/>
-</div>
+  <!-- RIGHT CARD -->
+  <img src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry"
+       width="380" />
+</p>
 
 
 ## 🌐 Connect With Me
