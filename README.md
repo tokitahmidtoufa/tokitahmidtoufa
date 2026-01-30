@@ -43,48 +43,31 @@ No activity tracked
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td valign="top">
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td>
-            <img
-              src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false"
-              width="500"
-              height="170"
-            />
-          </td>
-        </tr>
+<div align="center">
 
-  <tr><td height="8"></td></tr>
+<!-- LEFT STACK -->
+<img
+  src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false"
+  width="500"
+/>
 
-  <tr>
-          <td>
-            <img
-              src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
-              width="500"
-              height="170"
-            />
-          </td>
-        </tr>
-      </table>
-    </td>
+<br/>
 
-  <!-- GAP -->
-  <td width="12"></td>
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
+  width="500"
+/>
 
-  <!-- RIGHT COLUMN -->
-  <td valign="top">
-      <img
-        src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry&hide_border=false"
-        width="350"
-        height="348"
-      />
-    </td>
-  </tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img
+  src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&langs_count=5&theme=blueberry&hide_border=false"
+  width="500"
+/>
+</div>
 
 
 ## 🌐 Connect With Me
