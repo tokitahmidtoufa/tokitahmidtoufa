@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Toufa <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 </h1>
-<br><br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&width=355&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
 
-## 📌 Quick Bio
+<div align="center">
+<h2>📌 Quick Bio</h2>
+</div>
+
 <img 
   src="assets/about-me.gif" 
   align="right"
@@ -14,9 +16,11 @@
 - *💡 Turning my ideas into real **Python** projects*
 - *📫 Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>*
 
-## 🧪 Skills Lab
+<div align="center">
+<h2>🧪 Skills Lab</h2>
+</div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -33,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## ⏳ Consistency Zone
+<div align="center">
+<h2>⏳ Consistency Zone</h2>
 
 <!--START_SECTION:waka-->
 
@@ -44,8 +49,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
-## 📈 Activity Report
+<div align="center">
+<h2>📈 Activity Report</h2>
+</div>
 
 <p align="center">
   <img
@@ -67,10 +75,11 @@ No activity tracked
   />
 </p>
 
+<div align="center">
+<h2>🤝 Let’s Connect</h2>
+</div>
 
-## 🤝 Let’s Connect
-
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -91,15 +100,22 @@ No activity tracked
   </a>
 </div>
 
-## 🧭 Contribution Map
+<div align="center">
+<h2>🧭 Contribution Map</h2>
 
 ![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
 
-## ❤️ Support My Work
+</div>
+
+<div align="center">
+<h2>❤️ Support My Work</h2>
+
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
 <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="40" alt="Buy Me a Coffee" />
 </a>
+</div>
 
 ---
-
-> 💬 **Progress Over Perfection**
+<div align="center">
+<q><em><strong>Progress Over Perfection<strong></em></q>
+</div>
