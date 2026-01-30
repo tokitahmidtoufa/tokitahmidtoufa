@@ -3,8 +3,6 @@
 <br><br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&width=355&lines=%F0%9F%9A%80+Tech+Enthusiast+%7C+AI+Learner" alt="Typing SVG" /></a></p>
 
-<div align="center">
-
 ## 📌 Quick Bio
 <img 
   src="assets/about-me.gif" 
@@ -16,15 +14,9 @@
 - *💡 Turning my ideas into real **Python** projects*
 - *📫 Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>*
 
-</div>
-
-<div align="center">
-
 ## 🧪 Skills Lab
 
-</div>
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -41,9 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-<div align="center">
-
 ## ⏳ Consistency Zone
 
 <!--START_SECTION:waka-->
@@ -56,13 +45,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-</div>
-
-<div align="center">
-
 ## 📈 Activity Report
-
-</div>
 
 <p align="center">
   <img
@@ -84,13 +67,10 @@ No activity tracked
   />
 </p>
 
-<div align="center">
 
 ## 🤝 Let’s Connect
 
-</div>
-
-<div align="center">
+<div align="left">
   <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -111,22 +91,14 @@ No activity tracked
   </a>
 </div>
 
-<div align="center">
-
 ## 🧭 Contribution Map
 
 ![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
-
-</div>
-
-<div align="center">
 
 ## ❤️ Support My Work
 <a href="https://ko-fi.com/K3K81T80EL" target="_blank">
 <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" height="40" alt="Buy Me a Coffee" />
 </a>
-
-</div>
 
 ---
 
