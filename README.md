@@ -44,16 +44,20 @@ No activity tracked
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- LEFT STACK -->
-  <img src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry"
-       width="480" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry"
-       width="480" />
-
-  <!-- RIGHT CARD -->
-  <img src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry"
-       width="380" />
+  <img
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=true"
+    width="420"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
+    width="420"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&hide_border=true"
+    width="420"
+  />
 </p>
 
 
