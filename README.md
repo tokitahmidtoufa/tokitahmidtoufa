@@ -52,14 +52,10 @@ Git        0 secs          ░░░░░░░░░░░░░░░░░�
 <p align="center">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false"
-    height="165"
+    height="170"
     width="420"
   />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
-    height="165"
-    width="420"
-  />
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=tokitahmidtoufa&theme=blueberry&date_format=j%20M%5B%20Y%5D&card_width=420&card_height=165" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img
