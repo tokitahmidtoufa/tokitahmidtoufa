@@ -91,6 +91,22 @@ Git        0 secs          ░░░░░░░░░░░░░░░░░�
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://codeforces.com/profile/toufa12" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codefoces logo"  />
+  </a>
+  <a href="http://leetcode.com/u/tokitahmidtoufa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/toufa12" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.kaggle.com/tokitahmidtoufa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
+  </a>
+  
 </div>
 
 ## 🧭 Contribution Map
