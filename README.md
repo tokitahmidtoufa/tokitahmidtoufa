@@ -73,37 +73,37 @@ Git        0 secs          ░░░░░░░░░░░░░░░░░�
 ## 🤝 Let’s Connect
 
 <div align="left">
-  <a href="https://www.facebook.com/tokitahmidtoufa" target="_blank">
+  <a href="https://www.facebook.com/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/tokitahmid_toufa" target="_blank">
+  <a href="https://www.instagram.com/tokitahmid_toufa" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/tokitahmidtoufa" target="_blank">
+  <a href="https://www.linkedin.com/in/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/tokitahmidtoufa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@tokitahmidtoufa" target="_blank">
+  <a href="https://www.youtube.com/@tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://codeforces.com/profile/toufa12" target="_blank">
+  <a href="https://codeforces.com/profile/toufa12" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codefoces logo"  />
   </a>
-  <a href="http://leetcode.com/u/tokitahmidtoufa" target="_blank">
+  <a href="http://leetcode.com/u/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
   </a>
-  <a href="https://www.codechef.com/users/toufa12" target="_blank">
+  <a href="https://www.codechef.com/users/toufa12" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="_blank">
+  <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.kaggle.com/tokitahmidtoufa" target="_blank">
+  <a href="https://www.kaggle.com/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
   </a>
   
