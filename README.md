@@ -56,7 +56,7 @@ Git        0 secs          ░░░░░░░░░░░░░░░░░�
     width="420"
   />
   <img
-    src="https://github-readme-streak-stats-zdwe.onrender.com/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false"
+    src="https://github-readme-streak-stats-zdwe.onrender.com?user=tokitahmidtoufa&theme=blueberry&hide_border=false"
     height="165"
     width="420"
   />
