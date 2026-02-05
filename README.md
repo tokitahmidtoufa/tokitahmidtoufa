@@ -31,6 +31,8 @@
 
 ## ⏳ Consistency Zone
 
+## 📈 Activity Report
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -44,8 +46,6 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## 📈 Activity Report
 
 <p align="center">
   <img
