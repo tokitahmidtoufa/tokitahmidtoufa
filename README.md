@@ -61,15 +61,15 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=donut&theme=blueberry&card_width=425&hide_border=false&cache_seconds=86400"
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=425&hide_border=false&cache_seconds=86400"
     height="194"
     width="425"
   />
-  <img
+  <!-- <img
   src="https://github-readme-stats-eta-teal-12.vercel.app/api/wakatime?username=tokitahmidtoufa&wakatime_username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=425&range=last_30_days"
   width="425"
   height="194"
-/>
+/> -->
 </p>
 
 
