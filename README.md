@@ -49,7 +49,7 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false"
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400"
     height="165"
     width="420"
   />
