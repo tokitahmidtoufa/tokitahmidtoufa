@@ -29,7 +29,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## ⏳ Consistency Zone
+## 🎯 Coding Journey
+
+<div align="left">
+
+<a href="https://codeforces.com/profile/toufa12" target="blank" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codefoces logo"  />
+  </a>
+  <a href="http://leetcode.com/u/tokitahmidtoufa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/toufa12" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.kaggle.com/tokitahmidtoufa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
+  </a>
+
+</div>
 
 ## 📈 Activity Report
 
@@ -49,29 +69,46 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img
+    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=846&card_height=194"
+    height="194"
+    width="846"
+  />
+  <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
     height="194"
     width="420"
   />
-  <img
-    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=420&card_height=194"
-    height="194"
-    width="420"
-  />
-</p>
-<p align="center">
   <img
     src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
     height="194"
     width="420"
   />
   <!-- <img
+    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=420&card_height=194"
+    height="194"
+    width="420"
+  /> -->
+</p>
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
+    height="194"
+    width="420"
+  /> -->
+  <!-- <img
   src="https://github-readme-stats-eta-teal-12.vercel.app/api/wakatime?username=tokitahmidtoufa&wakatime_username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=425&range=last_30_days"
   width="425"
   height="194"
-/> -->
-</p>
+/>
+</p> -->
 
+## 🧭 Contribution Map
+
+<div align="center">
+
+![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## 🤝 Let’s Connect
 
@@ -94,30 +131,7 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://codeforces.com/profile/toufa12" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codefoces logo"  />
-  </a>
-  <a href="http://leetcode.com/u/tokitahmidtoufa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/toufa12" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.kaggle.com/tokitahmidtoufa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle logo"  />
-  </a>
   
-</div>
-
-## 🧭 Contribution Map
-
-<div align="center">
-
-![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
-
 </div>
 
 ---
