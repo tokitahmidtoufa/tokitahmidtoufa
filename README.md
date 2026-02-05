@@ -49,12 +49,12 @@ TOML         15 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=165"
+    src="https://github-readme-stats-eta-teal-12.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
     height="194"
     width="420"
   />
   <img
-    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=420&card_height=165"
+    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=420&card_height=194"
     height="194"
     width="420"
   />
