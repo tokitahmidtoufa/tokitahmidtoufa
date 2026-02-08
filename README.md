@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 06 February 2026
+From: 08 January 2026 - To: 07 February 2026
 
-Markdown     6 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.84 %
-Python       4 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
-YAML         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TOML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Markdown     6 hrs 25 mins   ████████████░░░░░░░░░░░░░   47.96 %
+Python       4 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   34.64 %
+YAML         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+TOML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
