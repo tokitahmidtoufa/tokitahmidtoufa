@@ -74,12 +74,12 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
     width="846"
   />
   <img
-    src="https://github-readme-stats-snowy-three-hrovcscw0b.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
+    src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
     height="194"
     width="420"
   />
   <img
-    src="https://github-readme-stats-snowy-three-hrovcscw0b.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
+    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
     height="194"
     width="420"
   />
