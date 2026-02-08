@@ -79,7 +79,7 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
     width="420"
   />
   <img
-    src="https://github-readme-stats-snowy-three-hrovcscw0b.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=300"
+    src="https://github-readme-stats-snowy-three-hrovcscw0b.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
     height="194"
     width="420"
   />
