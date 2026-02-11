@@ -71,36 +71,19 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
   <img
     src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=846&card_height=194"
     height="194"
-    width="846"
+    style="max-width: 100%; width: auto;"
   />
   <img
     src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
     height="194"
-    width="420"
+    style="max-width: 49%; width: auto; min-width: 300px;"
   />
   <img
     src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
     height="194"
-    width="420"
+    style="max-width: 49%; width: auto; min-width: 300px;"
   />
-  <!-- <img
-    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=420&card_height=194"
-    height="194"
-    width="420"
-  /> -->
 </p>
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats-eta-teal-12.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
-    height="194"
-    width="420"
-  /> -->
-  <!-- <img
-  src="https://github-readme-stats-eta-teal-12.vercel.app/api/wakatime?username=tokitahmidtoufa&wakatime_username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=425&range=last_30_days"
-  width="425"
-  height="194"
-/>
-</p> -->
 
 ## 🧭 Contribution Map
 
