@@ -67,21 +67,18 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center" style="max-width: 846px; margin: 0 auto;">
-  <img
-    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=846&card_height=194"
-    alt="GitHub Streak"
-    style="width: 100%; height: auto; display: block;"
+<p align="center">
+  <img 
+    src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=846&card_height=194" 
+    width="100%" 
   />
-  <img
-    src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
-    alt="GitHub Stats"
-    style="width: 50%; height: auto; vertical-align: top;"
-  /><!--
-  --><img
-    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
-    alt="Top Languages"
-    style="width: 50%; height: auto; vertical-align: top;"
+  <img 
+    src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194" 
+    width="49.4%" 
+  />
+  <img 
+    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400" 
+    width="49.4%" 
   />
 </p>
 
