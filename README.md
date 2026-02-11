@@ -77,7 +77,7 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
     width="49.4%" 
   />
   <img 
-    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400" 
+    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&card_height=194&hide_border=false&cache_seconds=86400" 
     width="49.4%" 
   />
 </p>
