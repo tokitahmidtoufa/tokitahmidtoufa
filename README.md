@@ -67,21 +67,21 @@ TOML         15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center">
+<p align="center" style="max-width: 846px; margin: 0 auto;">
   <img
     src="https://stats.eurekaavenue.net/?user=tokitahmidtoufa&theme=blueberry&hide_border=false&card_width=846&card_height=194"
-    height="194"
-    style="max-width: 100%; width: auto;"
+    alt="GitHub Streak"
+    style="width: 100%; height: auto; display: block;"
   />
   <img
     src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194"
-    height="194"
-    style="max-width: 49%; width: auto; min-width: 300px;"
-  />
-  <img
+    alt="GitHub Stats"
+    style="width: 50%; height: auto; vertical-align: top;"
+  /><!--
+  --><img
     src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&hide_border=false&cache_seconds=86400"
-    height="194"
-    style="max-width: 49%; width: auto; min-width: 300px;"
+    alt="Top Languages"
+    style="width: 50%; height: auto; vertical-align: top;"
   />
 </p>
 
