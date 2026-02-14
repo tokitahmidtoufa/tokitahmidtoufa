@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 12 February 2026
+From: 14 January 2026 - To: 13 February 2026
 
 Markdown     6 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   42.31 %
 Python       6 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   40.86 %
