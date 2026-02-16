@@ -39,7 +39,7 @@
   <a href="http://leetcode.com/u/tokitahmidtoufa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
   </a>
-  <a href="https://www.codechef.com/users/toufa12" target="blank">
+  <a href="https://www.codechef.com/users/tokitahmidtofa" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/tokitahmidtoufa" target="blank">
