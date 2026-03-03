@@ -86,7 +86,7 @@ TOML         19 mins               ▓░░░░░░░░░░░░░░
 
 <div align="center">
 
-![My GitHub Game](game.gif)
+![snake gif](https://github.com/tokitahmidtoufa/tokitahmidtoufa/blob/output/github-snake-dark.svg)
 
 </div>
 
