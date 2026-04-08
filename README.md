@@ -12,7 +12,7 @@
 - *🌱 Growing in **Machine Learning***
 - *🤖 Curious about **AI & Data Science***
 - *💡 Turning my ideas into real **Python** projects*
-- *📫 Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=toufa6.2832@gmail.com" target="_blank">**toufa6.2832@gmail.com**</a></p>*
+- *📫 Let's talk: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tokitahmidtoufa@gmail.com" target="_blank">**tokitahmidtoufa@gmail.com**</a></p>*
 
 ## 🧪 Skills Lab
 
