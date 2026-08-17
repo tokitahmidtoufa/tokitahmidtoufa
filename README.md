@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 15 August 2026
+From: 17 July 2026 - To: 16 August 2026
 
-Python       8 hrs 50 mins         ████████████▒░░░░░░░░░░░░   49.24 %
-TypeScript   8 hrs 18 mins         ███████████▓░░░░░░░░░░░░░   46.27 %
-Markdown     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-HTML         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   8 hrs 18 mins         ████████████▓░░░░░░░░░░░░   51.25 %
+Python       7 hrs 12 mins         ███████████░░░░░░░░░░░░░░   44.44 %
+Markdown     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+HTML         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
