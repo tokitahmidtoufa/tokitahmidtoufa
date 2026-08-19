@@ -57,11 +57,11 @@ HTML         8 mins                ▒░░░░░░░░░░░░░░
     width="100%" 
   />
   <img 
-    src="https://github-readme-stats-wsx2.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194" 
+    src="https://https://github-readme-stats-frontend-ruddy.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194" 
     width="49.2%" 
   />
   <img 
-    src="https://github-readme-stats-wsx2.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&card_height=194&hide_border=false&cache_seconds=86400" 
+    src="https://github-readme-stats-frontend-ruddy.vercel.app/api/top-langs?username=tokitahmidtoufa&layout=compact&theme=blueberry&card_width=420&card_height=194&hide_border=false&cache_seconds=86400" 
     width="49.2%" 
   />
 </p>
