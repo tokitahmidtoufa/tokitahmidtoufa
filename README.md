@@ -57,7 +57,7 @@ HTML         8 mins                ▒░░░░░░░░░░░░░░
     width="100%" 
   />
   <img 
-    src="https://https://github-readme-stats-frontend-ruddy.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194" 
+    src="https://github-readme-stats-frontend-ruddy.vercel.app/api?username=tokitahmidtoufa&theme=blueberry&hide_border=false&cache_seconds=86400&card_width=420&card_height=194" 
     width="49.2%" 
   />
   <img 
